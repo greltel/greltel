@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently working on EY as a SAP ABAP Developer
+🌱 I’m currently learning SAP ABAP, SAP UI5/Fiori, OData
+👯 Would love to collaborate for Software Development projects
 
 <!--
 **greltel/greltel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
