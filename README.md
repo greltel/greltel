@@ -20,7 +20,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-   <img src="https://commons.wikimedia.org/wiki/File:Eclipse-SVG.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/svg/372841/eclipse" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
