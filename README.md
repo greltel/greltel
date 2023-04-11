@@ -12,9 +12,9 @@
   
 </div>
 
-### About Me:
+### :woman_technologist: About Me:
 🔭 I’m currently working at EY as a SAP ABAP Developer<br>
-🌱 I’m currently learning SAP ABAP, SAP UI5/Fiori, OData<br>
+🌱 I’m learning SAP ABAP, SAP UI5/Fiori, OData<br>
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
 ### :fire: My Stats :
