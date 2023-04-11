@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+https://img.shields.io/badge/LinkedIn-blue
+
 ### About Me:
 🔭 I’m currently working at EY as a SAP ABAP Developer<br>
 🌱 I’m currently learning SAP ABAP, SAP UI5/Fiori, OData<br>
