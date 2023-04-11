@@ -15,7 +15,7 @@
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/george-drakos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-drakos/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
