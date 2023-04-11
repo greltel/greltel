@@ -10,7 +10,9 @@
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greltel&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greltel&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aufaraditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <!--
 **greltel/greltel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
