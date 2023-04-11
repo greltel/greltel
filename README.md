@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/adityaaufar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@adityaaufar)
+![SAP-ABAP](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap)
 
 ### About Me:
 🔭 I’m currently working at EY as a SAP ABAP Developer<br>
