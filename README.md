@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### About Me:
 🔭 I’m currently working at EY as a SAP ABAP Developer<br>
 🌱 I’m currently learning SAP ABAP, SAP UI5/Fiori, OData<br>
