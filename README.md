@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/adityaaufar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
 ![SAP-ABAP](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap)
 
 </div>
