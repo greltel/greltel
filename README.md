@@ -4,8 +4,6 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/george-drakos/)
-  
 ### 🤙Hey There
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
@@ -15,6 +13,9 @@
 🔭 I’m currently working at EY as a SAP ABAP Developer<br> 
 🌱 I’m learning SAP ABAP, SAP UI5/Fiori, OData<br>
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/george-drakos/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
