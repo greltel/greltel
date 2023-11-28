@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me:
 🔭 I’m currently working at EY as a SAP ABAP Developer<br> 
-🌱 I’m learning SAP ABAP, SAP UI5/Fiori, OData, Javascript and Node JS( for CAP Projects )<br>
+🌱 I’m learning SAP ABAP, SAP UI5/Fiori, OData, Javascript, React and Node JS( for CAP Projects )<br>
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
 ## 🌐 Socials:
@@ -23,6 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
