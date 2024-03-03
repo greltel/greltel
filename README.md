@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me:
 🔭 I’m currently working at EY as a SAP ABAP Developer<br> 
-🌱 I’m learning SAP ABAP, SAP UI5/Fiori, OData, Javascript, React and Node JS( for CAP Projects )<br>
+🌱 I’m learning SAP ABAP, SAP UI5/Fiori, OData,RAP, Javascript, React and Node JS( for CAP Projects )<br>
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
 ## 🌐 Socials:
