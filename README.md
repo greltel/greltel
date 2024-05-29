@@ -6,7 +6,7 @@
 </div>
 
 ### :woman_technologist: About Me:
-🔭 I’m currently working at EY as a SAP ABAP Developer<br> 
+🔭 I’m currently working at EY as a SAP Technical Consultant<br> 
 🌱 I’m learning SAP UI5/Fiori, OData,RAP, Javascript, React and Node JS( for CAPM Projects )<br>
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
