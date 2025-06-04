@@ -17,7 +17,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 ![SAP-ABAP](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap)
-
+![Eclipse](https://img.shields.io/badge/Eclipse-orange?style=for-the-badge&logo=eclipseide&logoColor=white)
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="Firebase" width="40" height="40"/>&nbsp;
