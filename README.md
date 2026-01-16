@@ -19,6 +19,7 @@
 
 ![SAP-ABAP](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap)
 ![Eclipse](https://img.shields.io/badge/Eclipse-orange?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ABAP Cloud](https://img.shields.io/badge/ABAP-Cloud%20Ready-green)
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="Firebase" width="40" height="40"/>&nbsp;
