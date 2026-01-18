@@ -13,7 +13,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-drakos/)
-[![SAP Community Profile](https://img.shields.io/badge/SAP%20Community-Profile-007DB8?style=for-the-badge&logo=sap&logoColor=white)](https://profile.sap.com/u/Greltel)
+<a href="https://profile.sap.com/u/Greltel">
+  <img src="https://img.shields.io/badge/SAP%20Community-Profile-007DB8?style=for-the-badge&logo=sap&logoColor=white" height="40" alt="SAP Profile">
+</a>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19413644/george-drakos)
 
 ### :hammer_and_wrench: Languages and Tools :
