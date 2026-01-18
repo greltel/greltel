@@ -8,7 +8,7 @@
 ### :woman_technologist: About Me:
 🔭 I’m currently working as a SAP Technical Consultant<br> 
 💡 My expertise lies in Classic ABAP as well as Cloud & Clean Core Development (ABAP Cloud, RAP, BTP)<br>
-🌱 I’m learning SAP UI5/Fiori, OData,RAP, Javascript, React and Node JS( for CAP Projects )<br>
+🌱 I’m learning SAP UI5/Fiori, OData,RAP, Javascript and Node JS( for CAP Projects )<br>
 👯 Would love to collaborate for Software Development Projects that involve ABAP Coding<br>
 
 ## 🌐 Socials:
