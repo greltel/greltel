@@ -23,7 +23,7 @@
 ![SAP-ABAP](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge&logo=sap)
 ![Eclipse](https://img.shields.io/badge/Eclipse-orange?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://img.shields.io/badge/ABAP-Cloud%20Ready-green" alt="ABAP Cloud" height="40">
+<img src="https://img.shields.io/badge/ABAP-Cloud%20Ready-green" alt="ABAP Cloud" height="60">
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
